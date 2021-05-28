@@ -168,10 +168,10 @@ def logo():
     banner_enc()
 def b_menu():
     bm =  '''{}╔═════════════════════════════════════════════╗
-║{}[{}+{}]{}Coded    : Sayyed Zakarya                     ║
-║{}[{}+{}]{}Github   : https://github.com/aryanotriks║
+║{}[{}+{}]{}Coded    : Sayyed Zakarya                 ║
+║{}[{}+{}]{}Github   : https://github.com/aryanotriks ║
 ║{}[{}+{}]{}Tools    : Encrypt And Decrypt            ║
-║{}[{}+{}]{}Create   : 20 - 05 - 2021                  ║
+║{}[{}+{}]{}Create   : 20 - 05 - 2021                 ║
 ╚═════════════════════════════════════════════╝'''.format(p,m,p,m,p,m,p,m,p,m,p,m,p,m,p,m,p)
     jalan(bm,0.001)
 def menu():
