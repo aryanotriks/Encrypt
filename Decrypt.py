@@ -187,7 +187,7 @@ def menu():
 	load('Please wait a minute >--')
 	menu_dec()
     elif fuck == '':
-	run('Don't empty GBLK!!')
+	run('Jangan kosongkan GBLK!!')
 	menu()
     elif fuck == '3' or fuck == '03':
         jalan(p + 31 * '\xe2\x95\x90' + h + '[' + bm + 'Haii' + h + ']' + p + '>', 0.008)
